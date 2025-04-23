@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Restaurant POS API
 
 A Node.js-based REST API for managing restaurant orders. This API allows creating and retrieving orders for a restaurant POS system.
@@ -243,3 +244,6 @@ The API includes validation for:
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request 
+=======
+# restaurant-pos-api
+>>>>>>> 2946cf068841476d380d8f893961582103affdfd
